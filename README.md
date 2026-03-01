@@ -1,10 +1,10 @@
 # 🛡️ Pixelado de caras automático (AI Face Anonymizer)
 
-[English]
-High-security tool for data protection that detects and destroys facial information in photos and videos in a **completely irreversible** way. Professional, fast, and easy to use.
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
-[Castellano]
-Herramienta de alta seguridad para la protección de datos que detecta y destruye la información facial en fotos y vídeos de forma **totalmente irreversible**. Profesional, rápida y fácil de usar.
+🇺🇸 High-security tool for data protection that detects and destroys facial information in photos and videos in a **completely irreversible** way. Professional, fast, and easy to use.
+
+🇪🇸 Herramienta de alta seguridad para la protección de datos que detecta y destruye la información facial en fotos y vídeos de forma **totalmente irreversible**. Profesional, rápida y fácil de usar.
 
 ---
 
@@ -20,8 +20,8 @@ Herramienta de alta seguridad para la protección de datos que detecta y destruy
 ---
 
 ## ⚙️ Configuration / Configuración (config.ini)
-[English] The `config.ini` file is created automatically on the first run.
-[Castellano] El archivo `config.ini` se crea solo la primera vez que arrancas el programa.
+🇺🇸 The `config.ini` file is created automatically on the first run.
+🇪🇸 El archivo `config.ini` se crea solo la primera vez que arrancas el programa.
 
 - `model_size`: AI model selection / Selección del modelo:
   - `n`: **Nano** (Ultra Fast / El más rápido)
@@ -49,8 +49,8 @@ Herramienta de alta seguridad para la protección de datos que detecta y destruy
    - Results will be in the `/anonymized` folder. / Resultados en la carpeta `/anonymized`.
 
 ### 📦 Offline Models / Modelos Offline
-[English] If you want to download all models at once for offline use or redistribution:
-[Castellano] Si quieres descargar todos los modelos de golpe para usarlos sin internet o distribuirlos:
+🇺🇸 If you want to download all models at once for offline use or redistribution:
+🇪🇸 Si quieres descargar todos los modelos de golpe para usarlos sin internet o distribuirlos:
 ```bash
 python descargar_modelos.py
 ```
@@ -58,8 +58,8 @@ python descargar_modelos.py
 ---
 
 ## ⚖️ License / Licencia
-[English] Licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**.
-[Castellano] Este software se distribuye bajo la licencia **GNU Affero General Public License v3.0 (AGPL-3.0)**.
+🇺🇸 Licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**.
+🇪🇸 Este software se distribuye bajo la licencia **GNU Affero General Public License v3.0 (AGPL-3.0)**.
 
 ---
 
